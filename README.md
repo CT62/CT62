@@ -1,4 +1,4 @@
-<table style="background-color:#33475b">
+<table style="background-color:#ffffff">
 <tr>
 <th>Name</th>
 <th>Job Title</th>
