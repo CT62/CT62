@@ -32,3 +32,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg">
+<img align="left" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg">
