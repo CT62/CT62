@@ -34,4 +34,3 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-<img align="left" src="https://railway.app/brand/logo-dark.svg" width="60" height="60>
