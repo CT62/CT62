@@ -17,14 +17,11 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg">
-<img align="left" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-<img align="left" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/dieselrs/dieselrs-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
