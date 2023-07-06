@@ -1,4 +1,4 @@
-<body bgcolor="#rrggbb">
+<body bgcolor="#fffff">
 <h1>let name = "clive"; </h1>
 <h2>let mut hobbys = vec!["building computers","programming","hacking","entrepreneurship"]; </h2>
 <h3 align="center">my most used web development tools/languages: </h5>
