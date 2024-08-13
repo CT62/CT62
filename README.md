@@ -33,4 +33,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg">
 <img align="left" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg">
-<img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+<img aligh="left" src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg">
